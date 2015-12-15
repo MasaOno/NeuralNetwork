@@ -19,5 +19,5 @@
 
 ## ImageReconstruction
 
-####### This is a very basic implementation of a deep learning network that uses principle compenent analysis to reconstruct images.
-####### This code is in matlab; simply run the code with an image in the path and properly labelled.
+###### This is a very basic implementation of a deep learning network that uses principle compenent analysis to reconstruct images.
+###### This code is in matlab; simply run the code with an image in the path and properly labelled.
